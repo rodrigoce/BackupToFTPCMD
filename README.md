@@ -1,6 +1,6 @@
 # BackupToFTPCMD
 
-Para executar:
+Exempos de uso:
 
 BackupToFTPCMD D:\VisualStudioCode\LibMan ftp://172.17.10.56 FTPUser 1qaz@Wsx
 
