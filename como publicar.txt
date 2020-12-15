@@ -1,0 +1,3 @@
+dotnet publish --output ./Release/net5.0/NoSelfContained --configuration Release --no-self-contained -r win-x64 -p:PublishSingleFile=true BackupToFTPCMD.sln
+
+dotnet publish --output ./Release/net5.0/SelfContained --configuration Release --self-contained -r win-x64 -p:PublishSingleFile=true BackupToFTPCMD.sln
